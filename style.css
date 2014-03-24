@@ -105,16 +105,25 @@ ul,li {
 
 #detail-image {
   float:left;
+  background-color:#CCC;
+  padding:5px;
 }
 
-#detail-details {
+#detail-description{
   width:45%;
   float:left;
   padding-top:40px;
   padding-left:20px;
 }
 
+#detail-price {
+  font-size:24px;
+  font-weight:bold;
+  float:left;
+  padding-top:10px;
+
+}
+
 #detail-options {
   text-align:right;
-  clear:both;
 }
